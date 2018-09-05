@@ -6,4 +6,4 @@
 
 
 ## 递归相关
-[组合问题C(n,m):n个元素中取m个](https://github.com/DingProg/Algorithm/tree/master/%E9%80%92%E5%BD%92%E7%AE%97%E6%B3%95)
+[组合问题C(n,m):n个元素中取m个](https://github.com/DingProg/Algorithm/blob/master/%E9%80%92%E5%BD%92%E7%AE%97%E6%B3%95/combine.cpp)
